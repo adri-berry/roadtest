@@ -1,0 +1,20 @@
+body { 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-color: #ebd8ed;
+}
+
+
+h1 { font-family: 'Kolker Brush', cursive; 
+    font-size: 500%;
+}
+
+
+h2{ color: #504452;
+    font-size: 300%;
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
+
+
+p{  font-size: 200%;
+    font-family: 'Noto Nastaliq Urdu', serif
+}
